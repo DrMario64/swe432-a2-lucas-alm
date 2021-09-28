@@ -30,4 +30,4 @@ app.get('/populations', (req, res) => {
   return res.json(populations)
 })*/
 
-//module.exports = app;
+module.exports = app;
